@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @anselcorona.
+- 👀 I’m interested in topics related to Salesforce Administration, politics and Social Media analysis.
+- 🌱 I’m currently learning more about Salesforce CPQ, Apex Programming and Business Analysis.
+- 💞️ I’m looking to collaborate on projects that are related to my interests and learning path, or, projects related to matters I might be interested in learning
+- 📫 How to reach me... anselcorona is universally my username, on pretty much every social media platform. Easily accessible through Twitter and/or Instagram. 
